@@ -1,0 +1,20 @@
+{
+    "name": "Koost89/laravel-templates",
+    "description": "Template generator for laravel 5.6+",
+    "authors": [
+        {
+            "name": "Ewout Goosmann",
+            "email": "ewout@fonkel.io"
+        },
+        {
+            "name": "Kevin Oosterveen",
+            "email": "kevin@fonkel.io"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Koost89\\LaravelTemplates\\": "src/"
+        }
+    }
+}

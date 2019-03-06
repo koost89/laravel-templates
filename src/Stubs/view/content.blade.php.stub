@@ -1,0 +1,4 @@
+<div class="display {{$bundle}} {{$view_mode}}">
+  @component('display.' . $bundle . '.' . $view_mode, ['data' => $data])
+  @endcomponent
+</div>
